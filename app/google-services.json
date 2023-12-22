@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291916535902",
+    "project_id": "aplikasitravel-uas",
+    "storage_bucket": "aplikasitravel-uas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291916535902:android:1f138cec10468249c37ccf",
+        "android_client_info": {
+          "package_name": "com.example.aplikasitravel_uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMphhxdwQnf7Sc4GiTbC8dxQHDue0ikGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

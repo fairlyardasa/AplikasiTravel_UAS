@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AplikasiTravel_UAS" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/purple</item>
+    </style>
+
+    <style name="Base.Theme.AplikasiTravel_UAS.WithActionBar" parent="Theme.Material3.DayNight">
+        <item name="actionOverflowMenuStyle">@color/purple</item>
+    </style>
+
+    <style name="MyTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/purple</item>
+    </style>
+
+    <style name="ButtonColor" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/purple</item>
+    </style>
+
+    <style name="ButtonColor2" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/orange</item>
+    </style>
+
+    <style name="ButtoDanger" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/red</item>
+    </style>
+
+    <style name="Theme.AplikasiTravel_UAS" parent="Base.Theme.AplikasiTravel_UAS" />
+</resources>

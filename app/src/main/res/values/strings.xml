@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AplikasiTravel_UAS</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="termsAndPolicy">
+    <![CDATA[ By checking the box you agree to our <xmp><b><font color="#525BFF">Terms</font></b> and <b><font color="#525BFF">Conditions</font></b></xmp>. ]]>
+</string>
+    <string name="termsOrdinary">By checking the box you agree to our Terms and Conditions.</string>
+    <string name="askLogin">Already Have an Account? Login</string>
+    <string name="homepage_username">Welcome Username </string>
+    <string name="homepage_email">Your email has been activated </string>
+    <string name="homepage_phone">Your phone has been registered</string>
+
+</resources>
